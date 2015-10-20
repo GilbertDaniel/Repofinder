@@ -3,7 +3,7 @@ $(document).ready(function(){
 		getRepos();
 	});
 });
- getRepos();
+
  
  $('.ui-input-clear').click(function(){
         $('#search_list').hide();
