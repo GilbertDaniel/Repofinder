@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hello World</name>
+<widget id="com.phonegap.repofinder" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Repofinder</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Viewing and searching Repouser by using Github API.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="daniel.gilbert247@gmail.com" href="http://phonegap.com">
+        Gilbert Daniel
     </author>
     <content src="index.html" />
     <preference name="phonegap-version" value="3.7.0" />
